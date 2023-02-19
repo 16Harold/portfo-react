@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/portfo-react/static/css/main.78deab3b.css",
+    "main.js": "/portfo-react/static/js/main.a5b5f4e7.js",
+    "static/media/logo.gif": "/portfo-react/static/media/logo.2586ee4559ca76595632.gif",
+    "static/media/banner2.png": "/portfo-react/static/media/banner2.c446c4562bce33044f71.png",
+    "static/media/project.png": "/portfo-react/static/media/project.a3e3f3b193a896ad500c.png",
+    "static/media/react.png": "/portfo-react/static/media/react.c860ee9d082862a24ffd.png",
+    "static/media/bs.png": "/portfo-react/static/media/bs.beacfa1043eea508aa81.png",
+    "static/media/ps.png": "/portfo-react/static/media/ps.04471aaf8d1ba96ce930.png",
+    "static/media/lakoProj.png": "/portfo-react/static/media/lakoProj.0f2bd06795d46d787b15.png",
+    "static/media/todo.png": "/portfo-react/static/media/todo.be434aafb35631994907.png",
+    "static/media/node.png": "/portfo-react/static/media/node.2bb6ad6818552eda0ed6.png",
+    "static/media/js.png": "/portfo-react/static/media/js.e93f70490d4d368f0d8d.png",
+    "static/media/css.png": "/portfo-react/static/media/css.473f6d69358eec03ddc0.png",
+    "static/media/html.png": "/portfo-react/static/media/html.50ed0b56acc4378aeea9.png",
+    "static/media/tailwind.png": "/portfo-react/static/media/tailwind.4830b78cecfcbfbfcfa8.png",
+    "static/media/weight-con.png": "/portfo-react/static/media/weight-con.550257582e8000f0f627.png",
+    "static/media/bmi.png": "/portfo-react/static/media/bmi.0237c6595f9cf63c8c56.png",
+    "static/media/figma.png": "/portfo-react/static/media/figma.7c1c897d384fba6dbfa1.png",
+    "static/media/soon.png": "/portfo-react/static/media/soon.29f38d5bea0d65106c4d.png",
+    "static/media/ml-converter.png": "/portfo-react/static/media/ml-converter.3666175a3ce082168ce1.png",
+    "static/media/conImg.png": "/portfo-react/static/media/conImg.c039dc68105722efc9cb.png",
+    "static/media/logo.png": "/portfo-react/static/media/logo.2063036f5f2986ed7194.png",
+    "index.html": "/portfo-react/index.html",
+    "main.78deab3b.css.map": "/portfo-react/static/css/main.78deab3b.css.map",
+    "main.a5b5f4e7.js.map": "/portfo-react/static/js/main.a5b5f4e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78deab3b.css",
+    "static/js/main.a5b5f4e7.js"
+  ]
+}
